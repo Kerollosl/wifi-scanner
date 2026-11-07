@@ -1,6 +1,6 @@
 # WiFi Scanner — macOS Menu Bar App
 
-Python macOS menu bar app that displays nearby WiFi networks via `CoreWLAN`. Built as a native `.app` with `py2app`. Not a Chrome Extension despite living in the Chrome Extensions folder.
+Python macOS menu bar app that displays nearby WiFi networks via `CoreWLAN`. Built as a native `.app` with `py2app`. Not a Chrome Extension despite living in the tools/ folder.
 
 ## Files
 
